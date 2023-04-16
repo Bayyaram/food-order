@@ -1,0 +1,23 @@
+{
+     "1": {
+          "Food Name": "vada",
+          "Quantity": 1,
+          "Price": 20,
+          "Stock": 12,
+          "Discount": 5
+     },
+     "2": {
+          "Food Name": "idli",
+          "Quantity": 1,
+          "Price": 30,
+          "Stock": 12,
+          "Discount": 5
+     },
+     "3": {
+          "Food Name": "Chi. Biryani",
+          "Quantity": 1,
+          "Price": 250,
+          "Stock": 100,
+          "Discount": 5
+     }
+}
